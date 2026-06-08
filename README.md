@@ -2,6 +2,10 @@
 Memory Match Game
 A responsive memory card matching game built with React, TypeScript, and Tailwind CSS.
 
+## 🚀 Live Demo
+Frontend Deployment
+🔗 https://fluffy-mochi-9afbb8.netlify.app/
+
 Features:
 1.Interactive card flipping animations.
 2.Match detection with visual feedback.
